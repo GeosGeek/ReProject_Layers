@@ -1,6 +1,5 @@
 # This script will re-project multiple datasets into a similar coordinate system then store all layers into the same folder.
 # Author: Matt Crichton
-# Date: 2-23-2018
 
 # Import required modules.
 import arcpy
